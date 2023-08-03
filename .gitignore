@@ -34,3 +34,5 @@ build/
 
 ### Secure Buddle ###
 /src/main/resources/secure-connect.zip
+
+.mvn
